@@ -9,8 +9,7 @@ Este repositório reúne meus **estudos, exercícios e evolução** na área de 
 
 ## 🚀 Sobre mim
 
-- 👩‍💻 Engenheira de Dados  
-- 📚 Estudante de **Sistemas para Internet**  
+- 👩‍💻 Engenheira de Dados 
 - 🔄 Em transição da área administrativa para tecnologia  
 - 🧩 Base em **JavaScript, HTML, CSS** e lógica de programação  
 - 🛠️ Iniciando no desenvolvimento back-end
@@ -55,8 +54,7 @@ Este repositório reúne meus **estudos, exercícios e evolução** na área de 
 ## 📬 Contato
 
 📧 **beatrizsouza2398@hotmail.com**  
-🔗 **https://linkedin.com/in/beatriz-souza**
+🔗 **https://linkedin.com/in/beatriz-silva-souza**
 
 ---
 
-🔗 linkedin.com/in/beatriz-souza
