@@ -1,33 +1,47 @@
 # 👋 Olá! Eu sou a Beatriz Souza  
 
-Sou **Desenvolvedora Back-end** com foco em **Java e Node.js**.  
-Atualmente estou aprimorando meus conhecimentos em **Spring Boot, Express.js, APIs REST** e **bancos de dados SQL**, aplicando boas práticas de versionamento com **Git e GitHub**.  
+Sou Engenheira de Dados em desenvolvimento contínuo, focada em Python, SQL e fundamentos de pipelines e arquitetura de dados.
+Também possuo base em JavaScript, HTML e CSS, o que complementa meu entendimento sobre integrações, APIs e aplicações web.
 
-💡 Tenho interesse em criar aplicações que envolvam **integração de dados, automação de processos e sistemas escaláveis**.  
-Estou construindo minha base técnica com projetos de estudo e pretendo compartilhar aqui minha evolução na área de **desenvolvimento back-end**.  
+Este repositório reúne meus estudos, exercícios e evolução na área de tecnologia.
 
----
+🚀 Sobre mim
 
-### 🚀 **Tecnologias e Ferramentas**
-- **Linguagens:** Java, JavaScript (Node.js)  
-- **Frameworks:** Spring Boot, Express.js  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Controle de Versão:** Git & GitHub  
-- **Outros:** APIs REST, JSON, SQL  
+👩‍💻 Engenheira de Dados
 
----
+🔄 Transição da área administrativa para tecnologia
 
-### 📌 **O que você vai encontrar por aqui**
-Repositórios com anotações, testes, pequenos desafios e projetos em desenvolvimento.  
-Cada novo código representa um passo na minha jornada como desenvolvedora.  
+🧩 Base em JavaScript, HTML, CSS e lógica de programação
 
----
+🛠️ Iniciando no desenvolvimento backend
 
-### 📫 **Entre em contato**
-📧 **beatrizsouza2398@hotmail.com**  
-🌐 [LinkedIn]
-https://www.linkedin.com/in/beatriz-silva-souza
 
----
+📘 O que estou estudando no momento
 
-✨ “Todo grande sistema começou com uma linha de código.”
+Python
+
+SQL
+
+Fundamentos de Engenharia de Dados
+
+ETL / ELT
+
+Modelagem de Dados
+
+Git & GitHub
+
+🎯 Objetivo deste repositório
+
+Registrar minha evolução na área
+
+Armazenar exercícios, anotações e práticas
+
+Consolidar estudos do curso Jornada de Dados
+
+Construir base para projetos como Engenheira de Dados
+
+📬 Contato
+
+📧 beatrizsouza2398@hotmail.com
+
+🔗 linkedin.com/in/beatriz-souza
