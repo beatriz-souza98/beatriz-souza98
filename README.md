@@ -1,60 +1,61 @@
-# 👋 Olá! Eu sou a Beatriz Souza  
+# 👋 Olá! Eu sou Beatriz Souza  
 
-Sou **Engenheira de Dados** em desenvolvimento contínuo, focada em Python, SQL e fundamentos de pipelines e arquitetura de dados.  
-Também possuo base em **JavaScript, HTML e CSS**, o que complementa meu entendimento sobre integrações, APIs e aplicações web.
+Sou Desenvolvedora Back-end em desenvolvimento contínuo, com foco em **Java, Spring Boot e APIs REST**.  
+Estudo construção de aplicações escaláveis, modelagem de dados e integração com bancos de dados relacionais.  
 
-Este repositório reúne meus **estudos, exercícios e evolução** na área de tecnologia.
+Possuo experiência anterior na área administrativa, o que fortalece minha visão analítica, organização e entendimento de regras de negócio aplicadas ao desenvolvimento de software.
 
----
-
-## 🚀 Sobre mim
-
-- 👩‍💻 Engenheira de Dados 
-- 🔄 Em transição da área administrativa para tecnologia  
-- 🧩 Base em **JavaScript, HTML, CSS** e lógica de programação  
-- 🛠️ Iniciando no desenvolvimento back-end
+Este repositório reúne meus estudos, exercícios e projetos práticos na área de desenvolvimento back-end.
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🚀 Sobre mim  
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
-> Observação: esses badges representam as tecnologias que estou estudando e praticando no momento.
+- 👩‍💻 Desenvolvimento Back-end com Java  
+- 🔄 Transição da área administrativa para tecnologia  
+- 🧩 Base em lógica de programação e banco de dados  
+- 🛠️ Estudando arquitetura de aplicações e boas práticas  
+- 📚 Foco em código limpo, organização e escalabilidade  
 
 ---
 
-## 📘 O que estou estudando no momento
+## 🧠 Tecnologias & Ferramentas  
 
-- Python  
+- Java  
+- Spring Boot  
 - SQL  
-- Fundamentos de Engenharia de Dados  
-- ETL / ELT  
-- Modelagem de Dados  
-- Lógica de programação  
-- Git & GitHub
+- JPA / Hibernate  
+- Git  
+- GitHub  
+
+> Observação: as tecnologias listadas representam o que estou estudando e aplicando em projetos práticos atualmente.
 
 ---
 
-## 🎯 Objetivo deste repositório
+## 📘 O que estou estudando no momento  
+
+- Java avançado  
+- Spring Boot  
+- Construção de APIs REST  
+- Persistência de dados com JPA  
+- Modelagem de banco de dados  
+- Boas práticas e arquitetura em camadas  
+- Git e versionamento  
+
+---
+
+## 🎯 Objetivo deste repositório  
 
 - Documentar minha evolução técnica  
-- Armazenar exercícios, anotações e práticas  
-- Consolidar conteúdos do curso **Jornada de Dados**  
-- Construir a base para futuros projetos na área de Engenharia de Dados
+- Armazenar projetos práticos e aplicações back-end  
+- Aplicar conceitos de APIs, autenticação e integração com banco de dados  
+- Construir uma base sólida para atuar como Desenvolvedora Back-end Java  
 
 ---
 
-## 📬 Contato
+## 📬 Contato  
 
-📧 **beatrizsouza2398@hotmail.com**  
-🔗 **https://linkedin.com/in/beatriz-silva-souza**
+📧 beatrizsouza2398@hotmail.com  
+🔗 https://linkedin.com/in/beatriz-silva-souza  
 
----
 
