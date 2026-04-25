@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Beatriz Souza
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de tecnologia, com foco em desenvolvimento **Front-end** utilizando JavaScript e iniciando meus estudos em React.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **Back-end em Java**.
 
-Iniciei minha jornada com JavaScript e, buscando fortalecer minha base em lógica e estrutura de sistemas, também adquiri conhecimentos em back-end com Java. Atualmente, aplico esses aprendizados em projetos práticos, desenvolvendo interfaces e trabalhando com manipulação de dados.
+Venho desenvolvendo projetos práticos com Java, aplicando conceitos de lógica de programação, orientação a objetos e construção de APIs REST.
 
 Possuo 6 anos de experiência na área administrativa, o que contribui com organização, comunicação, visão analítica e entendimento de regras de negócio no desenvolvimento de soluções.
 
@@ -10,48 +10,45 @@ Possuo 6 anos de experiência na área administrativa, o que contribui com organ
 
 ## 🚀 Sobre mim
 
-- 👩‍💻 Desenvolvimento Front-end em evolução  
+- 💻 Desenvolvimento Back-end com Java  
 - 🔄 Transição da área administrativa para tecnologia  
-- 🧩 Base em lógica de programação e conceitos de back-end  
-- 📊 Manipulação de dados e interatividade com JavaScript  
+- 🧩 Base em lógica de programação e POO  
+- 🔗 Desenvolvimento de APIs REST  
 - 📚 Foco em prática, consistência e evolução contínua  
 
 ---
 
 ## 🧠 Tecnologias & Ferramentas
 
-- JavaScript (básico)  
-- React (em aprendizado)  
-- HTML  
-- CSS  
+- Java  
+- Spring Boot (em aprendizado)  
+- SQL  
 - Git  
 - GitHub  
 
-> 📌 *Obs: As tecnologias representam o que estou estudando e aplicando em projetos práticos.*
-
 ---
 
-## 📘 O que estou estudando no momento
+## 📘 O que estou estudando
 
-- JavaScript (manipulação de arrays, objetos e eventos)  
-- Fundamentos de React  
-- Consumo de APIs  
-- Lógica de programação  
+- Java avançado  
+- Spring Boot  
+- Construção de APIs REST  
+- Banco de dados (SQL)  
 - Boas práticas de código  
 
 ---
 
-## 🎯 Objetivo deste repositório
+## 🎯 Objetivo
 
-- Documentar minha evolução técnica  
-- Desenvolver projetos práticos focados em front-end  
-- Aplicar conceitos de interatividade, lógica e consumo de APIs  
-- Construir uma base sólida para atuar como Desenvolvedora Front-end  
+- Evoluir como Desenvolvedora Back-end Java  
+- Construir aplicações escaláveis  
+- Desenvolver APIs eficientes  
+- Consolidar minha entrada no mercado de tecnologia  
 
 ---
 
 ## 📬 Contato
 
-- 📧 beatrizsouza2398@hotmail.com  
-- 🔗 https://linkedin.com/in/beatriz-silva-souza  
+📧 beatrizsouza2398@hotmail.com  
+🔗 https://linkedin.com/in/beatriz-silva-souza  
 
