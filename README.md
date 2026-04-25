@@ -1,55 +1,45 @@
-# 👋 Olá! Eu sou Beatriz Souza  
+👋 Olá! Eu sou Beatriz Souza
 
-Sou Desenvolvedora Back-end em desenvolvimento contínuo, com foco em **Java, Spring Boot e APIs REST**.  
-Estudo construção de aplicações escaláveis, modelagem de dados e integração com bancos de dados relacionais.  
+Sou estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de tecnologia, com foco em desenvolvimento Front-end utilizando JavaScript e iniciando meus estudos em React.
 
-Possuo experiência anterior na área administrativa, o que fortalece minha visão analítica, organização e entendimento de regras de negócio aplicadas ao desenvolvimento de software.
+Iniciei minha jornada com JavaScript e, buscando fortalecer minha base em lógica e estrutura de sistemas, também adquiri conhecimentos em back-end com Java. Atualmente, aplico esses aprendizados em projetos práticos, desenvolvendo interfaces e trabalhando com manipulação de dados.
 
-Este repositório reúne meus estudos, exercícios e projetos práticos na área de desenvolvimento back-end.
+Possuo 6 anos de experiência na área administrativa, o que contribui com organização, comunicação, visão analítica e entendimento de regras de negócio no desenvolvimento de soluções.
 
----
+🚀 Sobre mim
 
-## 🚀 Sobre mim  
+👩‍💻 Desenvolvimento Front-end em evolução
+🔄 Transição da área administrativa para tecnologia
+🧩 Base em lógica de programação e conceitos de back-end
+📊 Manipulação de dados e interatividade com JavaScript
+📚 Foco em prática, consistência e evolução contínua
 
-- 👩‍💻 Desenvolvimento Back-end com Java  
-- 🔄 Transição da área administrativa para tecnologia  
-- 🧩 Base em lógica de programação e banco de dados  
-- 🛠️ Estudando arquitetura de aplicações e boas práticas  
-- 📚 Foco em código limpo, organização e escalabilidade  
+🧠 Tecnologias & Ferramentas
+JavaScript (básico)
+React (em aprendizado)
+HTML
+CSS
+Git
+GitHub
 
----
+📌 Obs: As tecnologias representam o que estou estudando e aplicando em projetos práticos.
 
-## 🧠 Tecnologias & Ferramentas  
+📘 O que estou estudando no momento
+JavaScript (manipulação de arrays, objetos e eventos)
+Fundamentos de React
+Consumo de APIs
+Lógica de programação
+Boas práticas de código
+🎯 Objetivo deste repositório
+Documentar minha evolução técnica
+Desenvolver projetos práticos focados em front-end
+Aplicar conceitos de interatividade, lógica e consumo de APIs
+Construir base sólida para atuar como Desenvolvedora Front-end
+📬 Contato
 
-- Java  
-- Spring Boot  
-- SQL  
-- JPA / Hibernate  
-- Git  
-- GitHub  
+📧 beatrizsouza2398@hotmail.com
 
-> Observação: as tecnologias listadas representam o que estou estudando e aplicando em projetos práticos atualmente.
-
----
-
-## 📘 O que estou estudando no momento  
-
-- Java avançado  
-- Spring Boot  
-- Construção de APIs REST  
-- Persistência de dados com JPA  
-- Modelagem de banco de dados  
-- Boas práticas e arquitetura em camadas  
-- Git e versionamento  
-
----
-
-## 🎯 Objetivo deste repositório  
-
-- Documentar minha evolução técnica  
-- Armazenar projetos práticos e aplicações back-end  
-- Aplicar conceitos de APIs, autenticação e integração com banco de dados  
-- Construir uma base sólida para atuar como Desenvolvedora Back-end Java  
+🔗 https://linkedin.com/in/beatriz-silva-souza
 
 ---
 
