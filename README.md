@@ -1,48 +1,34 @@
-# 👋 Olá! Eu sou Beatriz Souza
+# Olá! Eu sou Beatriz Souza
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento **Back-end em Java**.
+Tenho experiência profissional em gestão, atendimento, implantação de sistemas e processos, e atualmente atuo na área de tecnologia.
 
-Venho desenvolvendo projetos práticos com Java, aplicando conceitos de lógica de programação, orientação a objetos e construção de APIs REST.
+Venho desenvolvendo projetos com **Java e JavaScript**, explorando APIs, automação e outras tecnologias na prática. Minha experiência com processos e negócio também faz parte da forma como penso e desenvolvo soluções.
 
-Possuo 6 anos de experiência na área administrativa, o que contribui com organização, comunicação, visão analítica e entendimento de regras de negócio no desenvolvimento de soluções.
+## Tecnologias e ferramentas
 
----
+* Java
+* JavaScript
+* Spring Boot
+* APIs REST
+* Git
+* GitHub
+* HTML e CSS
 
-## 🚀 Sobre mim
+## Projetos e iniciativas
 
-- 💻 Desenvolvimento Back-end com Java  
-- 🔄 Transição da área administrativa para tecnologia  
-- 🧩 Base em lógica de programação e POO  
-- 🔗 Desenvolvimento de APIs REST  
-- 📚 Foco em prática, consistência e evolução contínua  
+* **[Do Código à Blockchain](#)** — projeto em Java explorando conceitos relacionados a criptomoedas e tecnologia blockchain.
+* **[Auditor Solana](#)** — projeto relacionado ao ecossistema Solana.
+* **Elas no Java** — iniciativa voltada à participação e ao desenvolvimento de mulheres no ecossistema Java.
+* Projetos de estudo e experimentação com Java, JavaScript, APIs e automação.
 
----
+## Comunidade
 
-## 🧠 Tecnologias & Ferramentas
+Também atuo como voluntária na **WoHackers**, na liderança de Estratégias, contribuindo para o planejamento de projetos, organização de eventos e melhoria dos processos internos da comunidade.
 
-- Java  
-- Spring Boot (em aprendizado)  
-- SQL  
-- Git  
-- GitHub  
+## Atualmente
 
----
+Estou aprofundando meus conhecimentos em desenvolvimento, automação e integração de sistemas, buscando conectar tecnologia, processos e necessidades reais de negócio.
 
-## 📘 O que estou estudando
-
-- Java avançado  
-- Spring Boot  
-- Construção de APIs REST  
-- Banco de dados (SQL)  
-- Boas práticas de código  
-
----
-
-## 🎯 Objetivo
-
-- Evoluir como Desenvolvedora Back-end Java  
-- Construir aplicações escaláveis  
-- Desenvolver APIs eficientes  
 - Consolidar minha entrada no mercado de tecnologia  
 
 ---
